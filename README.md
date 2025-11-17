@@ -7,7 +7,7 @@ The AI evaluates game states, predicts outcomes, blocks human wins, and always c
 ---
 
 ## 🚀 Overview  
-This project showcases the power of **game-tree search**, **decision making**, and **optimization techniques** used in AI.  
+The power of **game-tree search**, **decision making**, and **optimization techniques** used in AI.  
 TicTac AI transforms the classic X-O game into a strategic and fully deterministic experience.
 
 ---
@@ -60,7 +60,7 @@ TicTac AI transforms the classic X-O game into a strategic and fully determinist
 ### Steps  
 ```bash
 # 1️⃣ Clone the repository
-git clone https://github.com/YourUsername/ttt-ai.git
+git clone https://github.com/Sidra-009/tic-tac-toe.git
 cd ttt-ai
 
 # 2️⃣ Install pygame
