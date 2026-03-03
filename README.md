@@ -1,4 +1,4 @@
-# 🎮 Tic Tca Tao 
+# 🎮 Tic Tac Tao 
 ### **“An unbeatable Tic-Tac-Toe AI powered by Minimax and Alpha-Beta Pruning.”**
 
 TicTac AI is an intelligent Tic-Tac-Toe game built using **Python** and **Pygame**, designed for demonstrating AI concepts such as **Minimax** and **Alpha-Beta Pruning**.  
